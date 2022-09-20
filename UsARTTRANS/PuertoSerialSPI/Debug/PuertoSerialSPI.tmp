@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\Debug\PuertoSerialSPI.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PuertoSerialSPI.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PuertoSerialSPI.map</FILE>
+  <FILE>PuertoSerialSPI.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</FILE><LINE>7</LINE></START>
+  <TRANSCOMPLETED><FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</FILE><LINE>51</LINE></TRANSCOMPLETED>
+  <REGVACIO3><FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</FILE><LINE>34</LINE></REGVACIO3>
+  <ESPERAR><FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</FILE><LINE>48</LINE></ESPERAR>
+  <REGVACIO><FILE>C:\Users\Daniel\Documents\Arduino\UsARTTRANS\PuertoSerialSPI\main.asm</FILE><LINE>52</LINE></REGVACIO>
+ </LABELS>
+</ASSEMBLER_INFO>

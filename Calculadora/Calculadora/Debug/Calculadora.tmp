@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.0</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\Debug\Calculadora.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Calculadora.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Calculadora.map</FILE>
+  <FILE>Calculadora.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>2</LINE></start>
+  <PASO1><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>13</LINE></PASO1>
+  <PASO2><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>19</LINE></PASO2>
+  <PASO3><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>25</LINE></PASO3>
+  <PASO4><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>31</LINE></PASO4>
+  <PASO5><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>37</LINE></PASO5>
+  <EXIT><FILE>C:\Users\daniel.tobon\Desktop\Calculadora\Calculadora\main.asm</FILE><LINE>43</LINE></EXIT>
+ </LABELS>
+</ASSEMBLER_INFO>

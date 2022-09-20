@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\Debug\UsARTREC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UsARTREC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UsARTREC.map</FILE>
+  <FILE>UsARTREC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>8</LINE></START>
+  <OVERFLOW><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>77</LINE></OVERFLOW>
+  <RECCOMPLETED><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>161</LINE></RECCOMPLETED>
+  <ESPERAR><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>70</LINE></ESPERAR>
+  <FinCONV><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>79</LINE></FinCONV>
+  <PERIODO2><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>141</LINE></PERIODO2>
+  <PERIODO1><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>133</LINE></PERIODO1>
+  <ATRASO><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>152</LINE></ATRASO>
+  <RECEND><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>162</LINE></RECEND>
+  <LEERDATO><FILE>C:\Users\Daniel\Documents\Arduino\UsARTREC\UsARTREC\main.asm</FILE><LINE>167</LINE></LEERDATO>
+ </LABELS>
+</ASSEMBLER_INFO>

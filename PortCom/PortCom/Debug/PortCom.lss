@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.2.6  C:\Users\Daniel\Documents\Arduino\PortCom\PortCom\main.asm Sat Oct 29 21:49:17 2016
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m2560def.inc'
+C:\Users\Daniel\Documents\Arduino\PortCom\PortCom\main.asm(10): error: cmp: Unknown instruction or macro
+C:\Users\Daniel\Documents\Arduino\PortCom\PortCom\main.asm(10): error: cl: Unknown instruction or macro
+C:\Users\Daniel\Documents\Arduino\PortCom\PortCom\main.asm(10): error: syntax error, unexpected ','

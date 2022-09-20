@@ -1,0 +1,5 @@
+start:
+	LDI R26,1
+	LDI R27,2
+	MOV R28,R27
+	ADD R28,R26

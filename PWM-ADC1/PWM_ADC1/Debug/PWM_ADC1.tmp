@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\Debug\PWM_ADC1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PWM_ADC1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PWM_ADC1.map</FILE>
+  <FILE>PWM_ADC1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\main.asm</FILE><LINE>28</LINE></Inicio>
+  <InterrupcionT0><FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\main.asm</FILE><LINE>86</LINE></InterrupcionT0>
+  <BUCLE><FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\main.asm</FILE><LINE>79</LINE></BUCLE>
+  <Esperar_EOC><FILE>D:\ArchEscritorio\Clases\Microprocesadores\2016\Microprocesadores 2016-2\Ejemplos Software\Assembler\PWM-ADC1\PWM_ADC1\main.asm</FILE><LINE>99</LINE></Esperar_EOC>
+ </LABELS>
+</ASSEMBLER_INFO>

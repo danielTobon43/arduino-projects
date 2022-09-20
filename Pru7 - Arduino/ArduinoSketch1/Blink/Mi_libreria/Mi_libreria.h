@@ -1,0 +1,2 @@
+int incrementar (int x);
+
